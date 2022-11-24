@@ -12,5 +12,3 @@ bc
 kdsas
 
 test2
-
-bbtest
